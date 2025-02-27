@@ -1,0 +1,35 @@
+{
+    "name": "vscode-shadowborn-theme",
+    "displayName": "Shadowborn Theme for VSCode",
+    "description": "A shadowy theme inspired by Solo Leveling",
+    "version": "1.0.0",
+    "icon": "images/Shadowborn.jpg",
+    "galleryBanner": {
+        "color": "#b98bf7",
+        "theme": "dark"
+    },
+    "publisher": "RyzenFromFire",
+    "author": {
+        "name": "RyzenFromFire",
+        "url": "https://github.com/RyzenFromFire",
+        "email": "ryzenfromfire@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/RyzenFromFire/vscode-shadowborn"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shadowborn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shadowborn-color-theme.json"
+            }
+        ]
+    }
+}
