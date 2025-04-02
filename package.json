@@ -2,7 +2,7 @@
     "name": "vscode-shadowborn-theme",
     "displayName": "Shadowborn Theme for VSCode",
     "description": "A shadowy theme inspired by Solo Leveling",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icon": "images/Shadowborn.jpg",
     "galleryBanner": {
         "color": "#b98bf7",
